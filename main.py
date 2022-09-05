@@ -27,7 +27,7 @@ import src.notice.wechat as wechat
 import src.utils._git as git
 
 
-GIT_CRAWL_PWD = "3uJtWFf4Vx1S2dSQXJCK"
+GIT_CRAWL_PWD = ""
 
 
 def args() :
