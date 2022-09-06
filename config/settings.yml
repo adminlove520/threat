@@ -16,7 +16,7 @@ crawler:
 notify:
   mail_smtp: 'smtp.qq.com'
   mail_user: '791751568@qq.com'     # 用于发送播报信息的邮箱账号
-  mail_pass: "<%= ENV['crdmhyxfnekrbeeh'] %>"
+  mail_pass: "<%= ENV['PASS'] %>"
   qq_user: '791751568'                    # 用于向 QQ 群发送播报信息的 QQ 账号
   qq_pass: "<%= ENV['Lucky1015'] %>"
 
